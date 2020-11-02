@@ -14,7 +14,7 @@ class Footer extends React.Component {
       <div className="footer">
         <h1 className="footer-title">Want to get in touch?</h1>
         <p>Send me an e-mail and I'll get back to you as soon as possible!</p>
-        <span className="email">andrekq.le@gmail.com</span>
+        <a href="mailto:andrekq.le@gmail.com" target="_top" className="email"><span className="email">andrekq.le@gmail.com</span></a>
         <div className="footer-links">
           <a href="https://github.com/Ayydre" className="footer-link"><ion-icon name="logo-github"></ion-icon></a>
           <a href="https://www.linkedin.com/in/andre-kq-le/" className="footer-link2"><ion-icon name="logo-linkedin"></ion-icon></a>

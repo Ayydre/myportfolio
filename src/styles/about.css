@@ -69,6 +69,11 @@
   color: white;
 }
 
+.about-button:hover {
+  background-color: #fca311;
+  border: 1px solid #fca311;
+}
+
 .resume-button:hover {
   color: white;
   text-decoration: none;
