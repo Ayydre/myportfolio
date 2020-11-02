@@ -10,7 +10,7 @@ class Main extends React.Component {
           <h4 className="title">Software Engineer</h4>
           <span className="based">Based in Tampa, FL</span>
         </div>
-        <video src="../images/geo.mp4" frameBorder="0" className="d-block w-100" title="lines" autoPlay muted loop allowFullScreen />
+        <video src="https://i.imgur.com/2ROU5zC.mp4" frameBorder="0" className="d-block w-100" title="lines" autoPlay muted loop allowFullScreen />
       </div>
     );
   }
