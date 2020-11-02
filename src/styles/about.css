@@ -1,0 +1,73 @@
+.about-area {
+  width: 100%;
+  margin-top: 100px;
+
+}
+
+.about {
+  font-family: 'Josefin Sans', sans-serif;
+  margin-left: 40px;
+  font-weight: 200;
+}
+
+.pic {
+  width: 90%;
+  height: 80%;
+  margin-left: 40px;
+  margin-top: 40px;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+}
+
+.me {
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+}
+
+.bio-area {
+  width: 100%;
+  display: flex;
+}
+
+.bio {
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+.bio-text {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.2em;
+}
+
+.technology {
+  margin-top: 40px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tech {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+
+.techno {
+  font-size: 80px;
+  color: rgb(75, 72, 73);
+}
+
+.techno:hover {
+  color: rgb(75, 72, 73);
+}
+
+.resume-button {
+  color: white;
+}
+
+.resume-button:hover {
+  color: white;
+  text-decoration: none;
+}

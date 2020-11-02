@@ -1,0 +1,23 @@
+.main {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro {
+  position: absolute;
+  z-index: 100;
+  text-align: center;
+}
+
+.name {
+  font-family: 'Josefin Sans', sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.title, .based {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}

@@ -1,0 +1,18 @@
+.nav {
+  position: fixed;
+  z-index: 300;
+  width: 100%;
+}
+
+.link, .link2 {
+  color: #6a6d71;
+  font-size: 18px;
+}
+
+.link:hover, .link2:hover {
+  color: inherit;
+}
+
+.link {
+  margin-right: 10px;
+}
