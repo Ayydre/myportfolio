@@ -28,6 +28,7 @@
 .bio-area {
   width: 100%;
   display: flex;
+  flex-direction: row;
 }
 
 .bio {
@@ -71,4 +72,20 @@
 .resume-button:hover {
   color: white;
   text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .bio-area {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .pic {
+    width: 75%;
+    height: 60%;
+  }
+
+  .tech-icons {
+    text-align: center;
+  }
 }
