@@ -9,7 +9,7 @@ class Project extends React.Component {
         <div className="projects">
           <div className="project">
             <div className="project-image">
-              <a href="/"><img src="../images/whereto.png" alt="project" className="project-img"/></a>
+              <a href="/"><img src="../images/whereto.jpeg" alt="project" className="project-img"/></a>
             </div>
             <h2 className="project-title">Whereto</h2>
             <span className="project-info">WhereTo is an app dedicated to helping groups decide on weekend plans or where to eat.</span>
