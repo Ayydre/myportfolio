@@ -13,7 +13,7 @@ class About extends React.Component {
           <div className="bio">
             <p className="bio-text"><ion-icon name="code-slash-outline"></ion-icon> I am a developer with skills in both front-end and back-end applications. I desire to collaborate with other professionals to build innovative and useful applications. I strive to add my own flavor into captivating designs while focusing on code efficiency, speed optimization, and seamless user experience. I am continuously learning and pushing towards mastering my craft.
             </p>
-          <button type="button" className="btn btn-secondary about-button"><a href="https://drive.google.com/file/d/1PLHLDEolKZEpBw-DkmIqfaVOYPwTNwiG/view?usp=sharing" className="resume-button"><ion-icon name="document-outline"/> resume</a></button>
+          <button type="button" className="btn btn-secondary about-button"><a href="https://drive.google.com/file/d/1cnOJqnFAn2TaET4hGcSM3IUrwvN6CJuO/view?usp=sharing" className="resume-button"><ion-icon name="document-outline"/> resume</a></button>
           </div>
         </div>
         <div className="technology">

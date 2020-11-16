@@ -18,7 +18,7 @@ class Footer extends React.Component {
         <div className="footer-links">
           <a href="https://github.com/Ayydre" className="footer-link"><ion-icon name="logo-github"></ion-icon></a>
           <a href="https://www.linkedin.com/in/andre-kq-le/" className="footer-link2"><ion-icon name="logo-linkedin"></ion-icon></a>
-          <a href="https://drive.google.com/file/d/1PLHLDEolKZEpBw-DkmIqfaVOYPwTNwiG/view?usp=sharing" className="footer-link"><ion-icon name="document-outline"></ion-icon></a>
+          <a href="https://drive.google.com/file/d/1cnOJqnFAn2TaET4hGcSM3IUrwvN6CJuO/view?usp=sharing" className="footer-link"><ion-icon name="document-outline"></ion-icon></a>
         </div>
       </div>
     )
